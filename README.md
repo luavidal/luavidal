@@ -1,16 +1,15 @@
-## Hi there 👋
+<img width="32" alt="image" src="https://github.com/user-attachments/assets/4c429ae2-c843-4653-b29a-f138fe943481" />
 
-<!--
-**luavidal/luavidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Sou um desenvolvedor Full Stack focado em aprimorar minhas habilidades práticas a cada projeto.<br>
+🔭 Atualmente desenvolvendo aplicações web de ponta a ponta.<br>
+🎮 Fora do código: Multi-instrumentista, fã de games, católico e casado.<br><hr>
 
-Here are some ideas to get you started:
+<img width="22" alt="image" src="https://github.com/user-attachments/assets/492218fa-9f4c-43e2-a1f8-3c480d719458" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi! I'm a Full Stack developer focused on improving practical skills with every project.<br>
+🔭 Currently developing end-to-end web applications.<br>
+🎮 Outside of coding: Multi-instrumentalist, gamer, Catholic, and married.<hr>
+
+[![Lua's GitHub stats](https://github-readme-stats.vercel.app/api?username=luavidal)](https://github.com/anuraghazra/github-readme-stats)
+
+![Lua's GitHub stats](https://github-readme-stats.vercel.app/api?username=luavidal&hide=contribs,prs)
